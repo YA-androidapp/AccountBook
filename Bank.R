@@ -1,3 +1,6 @@
+# 家計簿風
+#  Copyright (c) 2017 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+
 filename.1 <- "201701010000_01.csv" # CSVダウンロード
 filename.2 <- "s1.txt"          # 画面に表示されたテーブルをコピペ
 filename.3 <- "s2.txt"          # 画面に表示されたテーブルをコピペ
